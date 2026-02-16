@@ -1,4 +1,4 @@
-Изменение 32 для ветки 1
+Изменение 33 для ветки 1
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
