@@ -1,3 +1,4 @@
+Изменение 1 для ветки 1
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
