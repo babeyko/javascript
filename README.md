@@ -1,4 +1,4 @@
-Конфликт 1 для ветки 2
+Конфликт 2 для ветки 2
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
